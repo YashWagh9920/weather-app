@@ -48,6 +48,7 @@ function App() {
         setCurrentData(data["current"])
         setFutureData(data["forecast"]["forecastday"])
         setError("")
+        setInput("")
       })
   }
 
