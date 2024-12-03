@@ -1,0 +1,1 @@
+https://api.weatherapi.com/v1/forecast.json?key=422f530bfd7b487084c132721242607&q=mumbai&days=7
